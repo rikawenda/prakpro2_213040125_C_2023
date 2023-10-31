@@ -1,0 +1,2 @@
+Nama	Jenis Kelamin	Nomor HP	Alamat
+Rika Febriyanti E. Wenda	Perempuan	085780419034	Jl. Cipedes atas No.40
